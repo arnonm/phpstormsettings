@@ -164,9 +164,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <PhpUnitSettings custom_loader_path="" phpunit_phar_path="" />
-    </phpunit_settings>
-  </component>
 </application>
