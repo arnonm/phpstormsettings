@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="proxy-iil.intel.com" />
+    <option name="PROXY_PORT" value="911" />
+    <option name="PROXY_EXCEPTIONS" value="*.intel.com" />
+  </component>
+</application>
