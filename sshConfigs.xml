@@ -23,6 +23,7 @@
       <sshConfig authType="PASSWORD" host="45.55.250.74" id="0622d28e-e963-4e24-bdda-92945051092a" port="22" customName="StampServer" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="45.55.250.74" id="ed9d264c-b98a-47f0-992e-cd9667a9983c" port="22" customName="StampServer" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="45.55.250.74" id="8d634b6f-e176-491a-b436-fdcf821d9504" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="6147d52c-e3d7-4e7d-9c24-c7521bdb31b1" port="22" customName="StampServer" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
