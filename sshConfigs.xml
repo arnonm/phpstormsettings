@@ -1,0 +1,28 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="00fa3e3a-ea1c-4a93-8d70-0b0d0e8ef2ea" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="a5a3fcfe-8b82-48a3-b17e-017f53e7f62f" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="046a0174-f287-40ce-8ae8-78c69473ff67" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="06c2043b-a558-4380-bab3-676d5e54e071" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="70626d1a-4ddb-4103-9244-356e7542ad93" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="363dc51c-59d4-4256-8f61-92f18983be7f" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="f2a65a05-cf2d-4eb0-84d1-a01a14d94f30" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="3671f790-b987-44ff-b1dd-617e8f05184e" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="1cd845c2-604b-4786-aeee-d59e78508086" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="8721c4e0-1404-4af7-98c6-ca7f26e0f4b7" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="42cec903-7cc0-4fcc-a7e5-c415150ad637" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="ff435e91-f70a-46c5-929a-1e1e4a0fd23b" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="8cc2f7ae-e0a2-4929-95b7-ef5b7196660a" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="5c92e672-8a07-4418-9bf9-6fbcfc2d4bba" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="8b6aa32f-63ca-4520-bfc5-6a749c67fb7c" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="3dae40a9-5c24-4c56-8796-cce794274baf" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="d9fb96ed-8a42-4740-871d-e96d3ad9209b" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="76473a18-d2bf-47d0-bbff-4eb116cc72f9" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="80ed5479-a863-4b11-b9e2-013646bca057" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="0622d28e-e963-4e24-bdda-92945051092a" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="ed9d264c-b98a-47f0-992e-cd9667a9983c" port="22" customName="StampServer" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="45.55.250.74" id="8d634b6f-e176-491a-b436-fdcf821d9504" port="22" customName="StampServer" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
