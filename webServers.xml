@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9b9fbbce-6c1c-495f-9509-1ad44b3201d3" name="StampServer" url="http://45.55.250.74">
-        <fileTransfer accessType="SFTP" sshConfigId="6147d52c-e3d7-4e7d-9c24-c7521bdb31b1" sshConfig="StampServer">
+        <fileTransfer accessType="SFTP" host="45.55.250.74" port="22" sshConfigId="6147d52c-e3d7-4e7d-9c24-c7521bdb31b1" sshConfig="StampServer">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
