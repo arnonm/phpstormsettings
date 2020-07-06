@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="@coreui/coreui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@coreui_coreui_dist_css_coreui.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_@coreui_coreui_dist_css_coreui.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="free" type="javaScript">
       <properties>
         <sourceFilesUrls>
