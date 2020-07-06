@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="free" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_coreui-admin.test_css_free.min.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_coreui-admin.test_css_free.min.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
