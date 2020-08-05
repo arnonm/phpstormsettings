@@ -1,0 +1,10 @@
+<templateSet group="Laravel-Blade-Components">
+  <template name="&lt;x-utils.link&gt;" value="&lt;x-utils.link :href=&quot;$ROUTE$&quot; &#10;    :text=&quot;$TEXT$&quot; class=&quot;$CLASS$&quot;/&gt;$END$" description="Utils Link" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
