@@ -1,10 +1,10 @@
 <templateSet group="Laravel-Blade-Components">
-  <template name="x-backend-card" value="&lt;x-backend.card &#10;&#10;/&gt;$END" toReformat="false" toShortenFQNames="true">
+  <template name="x-backend-card" value="&lt;x-backend.card &#10;&#10;/&gt;$END" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="x-utils-link" value=" &lt;x-utils.link&#10;                icon=&quot;&quot;&#10;                class=&quot;&quot;&#10;                :href=&quot;&quot;&#10;                :text=&quot;&quot;&#10;            /&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="x-utils-link" value=" &lt;x-utils.link&#10;                icon=&quot;&quot;&#10;                class=&quot;&quot;&#10;                :href=&quot;&quot;&#10;                :text=&quot;&quot;&#10;            /&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
