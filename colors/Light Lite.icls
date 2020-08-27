@@ -1,15 +1,11 @@
 <scheme name="Light Lite" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-06-11T14:18:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-08-26T22:20:01</property>
+    <property name="modified">2020-08-27T17:52:21</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <colors>
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="f7f7f7" />
@@ -396,19 +392,16 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="b1ff8b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="ff8e98" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="ffc82c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
